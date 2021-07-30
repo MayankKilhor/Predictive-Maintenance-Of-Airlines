@@ -2,7 +2,7 @@
 
 <img src="https://github.com/TheRoryWillAim/Predictive-Maintenance-Of-Airlines/blob/main/Dataset/demo.gif" >
 
-[`Demo Video Link`] : (`https://drive.google.com/drive/folders/1WUa9eRHjRuhR25ubqFBmioQG82jMBXHk?usp=sharing`)
+[`Demo Video Link`] : [`https://drive.google.com/drive/folders/1WUa9eRHjRuhR25ubqFBmioQG82jMBXHk?usp=sharing`](https://drive.google.com/drive/folders/1WUa9eRHjRuhR25ubqFBmioQG82jMBXHk?usp=sharing)
 
 _______________________________________________________________________________________________
 
@@ -47,7 +47,7 @@ In this project, we have developed a model to predict the number of internationa
 passengers in units of 1000, given a year and a month.
 The data ranges from January 1949 to December 1960, or 12 years, with 144 observations.
 Prediction for next months is computed based on current year and month traffic.
-Dataset link: [`https://www.kaggle.com/chirag19/air-passengers`]
+Dataset link: [`https://www.kaggle.com/chirag19/air-passengers`](https://www.kaggle.com/chirag19/air-passengers)
 RNN and LSTM have been used in the development of the model and we have used Flask
 to deploy the model as a web application.
 
@@ -55,31 +55,31 @@ ________________________________________________________________________________
 
 ## Experimental Investigations
 
-[`(1)`] Data Collection
-        - Collect the dataset or create the dataset.
+[`(1.)`] Data Collection
+- Collect the dataset or create the dataset.
 
-[`(2)`] Data Preprocessing
-        - Import the libraries
-        - Reading the dataset
-        - Handling missing values
-        - Data Visualization
-        - Split the data into train and test
-        - Normalize the data
-        - Reshape the train and test data
+[`(2.)`] Data Preprocessing
+- Import the libraries
+- Reading the dataset
+- Handling missing values
+- Data Visualization
+- Split the data into train and test
+- Normalize the data
+- Reshape the train and test data
 
-[`(3)`] Model Building
-        - Import the model building Libraries
-        - Initializing the model
-        - Adding LSTM Layer
-        - Adding Output Layer
-        - Configure the Learning Process
-        - Training and testing the model
-        - Optimize the Model
-        - Save the Model
+[`(3.)`] Model Building
+- Import the model building Libraries
+- Initializing the model
+- Adding LSTM Layer
+- Adding Output Layer
+- Configure the Learning Process
+- Training and testing the model
+- Optimize the Model
+- Save the Model
 
-[`(4)`] Application Building
-        - Build HTML page.
-        - Build Python code.
+[`(4.)`] Application Building
+- Build HTML page.
+- Build Python code.
 
 __________________________________________________________________________________________
 
