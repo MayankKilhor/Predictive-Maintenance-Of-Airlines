@@ -2,7 +2,7 @@
 
 <img src="https://github.com/TheRoryWillAim/Predictive-Maintenance-Of-Airlines/blob/main/Dataset/demo.gif" >
 
-[`Demo Video Link`] : [`https://drive.google.com/drive/folders/1WUa9eRHjRuhR25ubqFBmioQG82jMBXHk?usp=sharing`]
+[`Demo Video Link`] : (`https://drive.google.com/drive/folders/1WUa9eRHjRuhR25ubqFBmioQG82jMBXHk?usp=sharing`)
 
 _______________________________________________________________________________________________
 
@@ -56,30 +56,30 @@ ________________________________________________________________________________
 ## Experimental Investigations
 
 [`(1)`] Data Collection
-        ● Collect the dataset or create the dataset.
+        - Collect the dataset or create the dataset.
 
 [`(2)`] Data Preprocessing
-        ● Import the libraries
-        ● Reading the dataset
-        ● Handling missing values
-        ● Data Visualization
-        ● Split the data into train and test
-        ● Normalize the data
-        ● Reshape the train and test data
+        - Import the libraries
+        - Reading the dataset
+        - Handling missing values
+        - Data Visualization
+        - Split the data into train and test
+        - Normalize the data
+        - Reshape the train and test data
 
 [`(3)`] Model Building
-        ● Import the model building Libraries
-        ● Initializing the model
-        ● Adding LSTM Layer
-        ● Adding Output Layer
-        ● Configure the Learning Process
-        ● Training and testing the model
-        ● Optimize the Model
-        ● Save the Model
+        - Import the model building Libraries
+        - Initializing the model
+        - Adding LSTM Layer
+        - Adding Output Layer
+        - Configure the Learning Process
+        - Training and testing the model
+        - Optimize the Model
+        - Save the Model
 
 [`(4)`] Application Building
-        ● Build HTML page.
-        ● Build Python code.
+        - Build HTML page.
+        - Build Python code.
 
 __________________________________________________________________________________________
 
