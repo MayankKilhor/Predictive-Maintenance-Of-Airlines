@@ -26,7 +26,7 @@ profitably monetizing investments in predictive maintenance will be a significan
 Another primary concern is data security. Due to the enormous amount of data that needs
 to be processed, it is critical to guarantee that equipment performance data cannot be
 accessed by outside parties, and that outside parties are not able to control predictive
-maintenance systems
+maintenance system
 
 ___________________________________________________________________________________________________
 
